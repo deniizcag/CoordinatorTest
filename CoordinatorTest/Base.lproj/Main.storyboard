@@ -23,10 +23,10 @@
             </objects>
             <point key="canvasLocation" x="142" y="105"/>
         </scene>
-        <!--View Controller-->
+        <!--Create Account View Controller-->
         <scene sceneID="aXA-G8-pp5">
             <objects>
-                <viewController id="T34-7s-UmD" sceneMemberID="viewController">
+                <viewController id="T34-7s-UmD" customClass="CreateAccountViewController" customModule="CoordinatorTest" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="bR0-Rr-nF2">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -51,10 +51,10 @@
             </objects>
             <point key="canvasLocation" x="975.36231884057975" y="104.46428571428571"/>
         </scene>
-        <!--View Controller-->
+        <!--Buy View Controller-->
         <scene sceneID="9xI-hZ-5rR">
             <objects>
-                <viewController id="ory-yL-YEg" sceneMemberID="viewController">
+                <viewController id="ory-yL-YEg" customClass="BuyViewController" customModule="CoordinatorTest" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="O9U-P2-mow">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>

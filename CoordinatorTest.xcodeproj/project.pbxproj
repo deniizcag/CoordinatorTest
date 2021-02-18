@@ -16,6 +16,8 @@
 		2ACA3E3A25DE889700351A82 /* Coordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ACA3E3925DE889700351A82 /* Coordinator.swift */; };
 		2ACA3E3D25DE899600351A82 /* Storyboarded.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ACA3E3C25DE899600351A82 /* Storyboarded.swift */; };
 		2ACA3E4025DE8BD700351A82 /* MainCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ACA3E3F25DE8BD700351A82 /* MainCoordinator.swift */; };
+		2ACA3E4425DE8DF800351A82 /* CreateAccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ACA3E4325DE8DF800351A82 /* CreateAccountViewController.swift */; };
+		2ACA3E4725DE8E0700351A82 /* BuyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ACA3E4625DE8E0700351A82 /* BuyViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +32,8 @@
 		2ACA3E3925DE889700351A82 /* Coordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coordinator.swift; sourceTree = "<group>"; };
 		2ACA3E3C25DE899600351A82 /* Storyboarded.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Storyboarded.swift; sourceTree = "<group>"; };
 		2ACA3E3F25DE8BD700351A82 /* MainCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainCoordinator.swift; sourceTree = "<group>"; };
+		2ACA3E4325DE8DF800351A82 /* CreateAccountViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateAccountViewController.swift; sourceTree = "<group>"; };
+		2ACA3E4625DE8E0700351A82 /* BuyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuyViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +76,8 @@
 				2ACA3E3925DE889700351A82 /* Coordinator.swift */,
 				2ACA3E3C25DE899600351A82 /* Storyboarded.swift */,
 				2ACA3E3F25DE8BD700351A82 /* MainCoordinator.swift */,
+				2ACA3E4325DE8DF800351A82 /* CreateAccountViewController.swift */,
+				2ACA3E4625DE8E0700351A82 /* BuyViewController.swift */,
 			);
 			path = CoordinatorTest;
 			sourceTree = "<group>";
@@ -146,6 +152,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2ACA3E4425DE8DF800351A82 /* CreateAccountViewController.swift in Sources */,
+				2ACA3E4725DE8E0700351A82 /* BuyViewController.swift in Sources */,
 				2ACA3E3A25DE889700351A82 /* Coordinator.swift in Sources */,
 				2ACA3E4025DE8BD700351A82 /* MainCoordinator.swift in Sources */,
 				2ACA3E2925DE883F00351A82 /* ViewController.swift in Sources */,
